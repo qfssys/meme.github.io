@@ -5,15 +5,15 @@ ACCOUNTS=["GCCN27JWW7XJOIKKYAH6AMIX4UO3OWEU2GLZEPE4BV3LCXXU4WY5VJLO"]
 [DOCUMENTATION]
 ORG_NAME="memelover"
 ORG_DESCRIPTION="best Ai Algo trading"
-ORG_DBA="memelover.github.io"
-ORG_URL="https://memelover.github.io"
-ORG_LOGO= "https://memelover.github.io/img/memelover.png"
+ORG_DBA="qfssys.github.io/memelover.github.io/"
+ORG_URL="https://qfssys.github.io/memelover.github.io/"
+ORG_LOGO= "https://qfssys.github.io/memelover.github.io/img/memelover.png"
 ORG_OFFICIAL_EMAIL="memelover@gmail.com"
 
 [[PRINCIPALS]]
 name="memelover"
 email="memelover@gmail.com"
-github="https://memelover.github.io"
+github="qfssys.github.io/memelover.github.io/"
 
 [[CURRENCIES]]
 code="XBULL"
@@ -23,7 +23,7 @@ display_decimals=7
 name="XBULL"
 desc="join memelovers token with algo trading system"
 conditions="Ai algo trading with reward system"
-image="https://memelover.github.io/img/XBULL.png"
+image="https://qfssys.github.io/memelover.github.io/img/XBULL.png"
 is_asset_anchored=true
 is_unlimited=true
 anchor_asset="XLM"
