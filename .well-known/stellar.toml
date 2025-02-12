@@ -28,3 +28,17 @@ is_asset_anchored=true
 is_unlimited=true
 anchor_asset="XLM"
 anchor_asset_type="crypto"
+
+[[CURRENCIES]]
+code="MEME"
+status="live"
+issuer="GCCN27JWW7XJOIKKYAH6AMIX4UO3OWEU2GLZEPE4BV3LCXXU4WY5VJLO"
+display_decimals=7
+name="MEME"
+desc="join memelovers token with algo trading system"
+conditions="Ai algo trading with reward system"
+image="https://qfssys.github.io/meme.github.io/img/MEME.png"
+is_asset_anchored=true
+is_unlimited=true
+anchor_asset="XLM"
+anchor_asset_type="crypto"
